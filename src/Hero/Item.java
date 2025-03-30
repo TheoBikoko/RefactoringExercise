@@ -1,6 +1,6 @@
 package Hero;
 
-public class QuestData {
+public class Item {
 
     private String itemName;
     private String itemKind;
